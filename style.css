@@ -1,0 +1,34 @@
+h1 {
+    background-color: bisque;
+    color: black;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+ul li,
+ol li{
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+.food {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 36px;
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    /*bottom 3 for image position center */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: auto;
+    
+}
