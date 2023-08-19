@@ -5,14 +5,37 @@ h1 {
     text-align: center;
 }
 
+.title {
+    border-radius: 1.5em;
+    padding: 1em 2em;
+}
+
 h2 {
     font-size: 30px;
 }
+
 ul li,
 ol li{
     font-size: 20px;
 }
 
+body a {
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 1.5em;
+    padding: 1em 2em;
+    font-size: 30px;
+}
+
+.main-items {
+    margin-top: 10em;
+    display: flex;
+    gap: 2em;
+    list-style-type: none;
+    justify-content: center;
+    
+}
 p {
     font-size: 20px;
 }
